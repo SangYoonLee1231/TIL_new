@@ -1,6 +1,6 @@
 <div align=center>
 
-# 📓 TIL
+# 📝 TIL (Today I Learned)
 
 ### 그 날 배운 내용을 내 방식대로 자유롭게 기록하는 공간
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-- Study Note와 별개로, 그 날 학습한 내용을 하루 단위로 자유롭게 기록하는 공간이다.
+- <a href="https://github.com/SangYoonLee1231/TIL_Study_Note">Study Note</a>와 별개로, 그 날 학습한 내용을 하루 단위로 자유롭게 기록하는 공간이다.
 
 - 다른 사람의 시선에 얽매이지 않고, 내가 잘 이해할 수 있는 방식으로 기록한다.
 
